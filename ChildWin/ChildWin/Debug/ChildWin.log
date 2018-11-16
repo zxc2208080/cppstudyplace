@@ -1,0 +1,4 @@
+﻿  ChildWin.cpp
+f:\test\cppworkplace\cppstudyplace\cppstudyplace\childwin\childwin\childwin.cpp(51): warning C4018: “<”: 有符号/无符号不匹配
+f:\test\cppworkplace\cppstudyplace\cppstudyplace\childwin\childwin\childwin.cpp(55): warning C4018: “<”: 有符号/无符号不匹配
+  ChildWin.vcxproj -> F:\test\cppworkplace\cppstudyplace\cppstudyplace\ChildWin\Debug\ChildWin.exe

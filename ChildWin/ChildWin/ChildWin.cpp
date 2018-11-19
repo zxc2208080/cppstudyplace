@@ -3,12 +3,9 @@
 文件：ChildWin.c
 功能：子窗口演示程序——命中测试
 ********************************************************************/
+
 #include "stdafx.h"
-#include "resource.h"
-#include <windows.h>
 #include <windowsx.h>
-
-
 
 #define ROW_NUM 4     //行数
 #define COL_NUM 8     //列数

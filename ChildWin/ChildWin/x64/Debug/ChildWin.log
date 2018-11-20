@@ -1,7 +1,7 @@
 ﻿  ChildWin.cpp
-f:\test\cppworkplace\cppstudyplace\github\zxc2208080\cppstudyplace\childwin\childwin\childwin.cpp(82): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
-f:\test\cppworkplace\cppstudyplace\github\zxc2208080\cppstudyplace\childwin\childwin\childwin.cpp(224): error C2065: “GCL_HCURSOR”: 未声明的标识符
-f:\test\cppworkplace\cppstudyplace\github\zxc2208080\cppstudyplace\childwin\childwin\childwin.cpp(225): error C2065: “GWL_HINSTANCE”: 未声明的标识符
-f:\test\cppworkplace\cppstudyplace\github\zxc2208080\cppstudyplace\childwin\childwin\childwin.cpp(231): error C2065: “GCL_HCURSOR”: 未声明的标识符
-f:\test\cppworkplace\cppstudyplace\github\zxc2208080\cppstudyplace\childwin\childwin\childwin.cpp(232): error C2065: “GWL_HINSTANCE”: 未声明的标识符
-f:\test\cppworkplace\cppstudyplace\github\zxc2208080\cppstudyplace\childwin\childwin\childwin.cpp(260): error C2065: “GWL_HINSTANCE”: 未声明的标识符
+f:\test\cppworkplace\cppstudyplace\github\zxc2208080\cppstudyplace\childwin\childwin\childwin.cpp(83): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
+f:\test\cppworkplace\cppstudyplace\github\zxc2208080\cppstudyplace\childwin\childwin\childwin.cpp(225): error C2065: “GCL_HCURSOR”: 未声明的标识符
+f:\test\cppworkplace\cppstudyplace\github\zxc2208080\cppstudyplace\childwin\childwin\childwin.cpp(226): error C2065: “GWL_HINSTANCE”: 未声明的标识符
+f:\test\cppworkplace\cppstudyplace\github\zxc2208080\cppstudyplace\childwin\childwin\childwin.cpp(232): error C2065: “GCL_HCURSOR”: 未声明的标识符
+f:\test\cppworkplace\cppstudyplace\github\zxc2208080\cppstudyplace\childwin\childwin\childwin.cpp(233): error C2065: “GWL_HINSTANCE”: 未声明的标识符
+f:\test\cppworkplace\cppstudyplace\github\zxc2208080\cppstudyplace\childwin\childwin\childwin.cpp(261): error C2065: “GWL_HINSTANCE”: 未声明的标识符

@@ -5,7 +5,7 @@
 ********************************************************************/
 
 #include "stdafx.h"
-#include <windowsx.h>
+
 
 #define ROW_NUM 4     //行数
 #define COL_NUM 8     //列数

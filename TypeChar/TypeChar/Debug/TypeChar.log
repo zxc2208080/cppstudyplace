@@ -1,4 +1,5 @@
-﻿  TypeChar.cpp
-f:\test\cppworkplace\cppstudyplace\cppstudyplace\typechar\typechar\typechar.cpp(38): warning C4018: “<”: 有符号/无符号不匹配
-f:\test\cppworkplace\cppstudyplace\cppstudyplace\typechar\typechar\typechar.cpp(42): warning C4018: “<”: 有符号/无符号不匹配
-  TypeChar.vcxproj -> F:\test\cppworkplace\cppstudyplace\cppstudyplace\TypeChar\Debug\TypeChar.exe
+﻿  stdafx.cpp
+  TypeChar.cpp
+f:\test\cppworkplace\cppstudyplace\github\zxc2208080\cppstudyplace\typechar\typechar\typechar.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+f:\test\cppworkplace\cppstudyplace\github\zxc2208080\cppstudyplace\typechar\typechar\typechar.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+  TypeChar.vcxproj -> F:\test\cppworkplace\cppstudyplace\github\zxc2208080\cppstudyplace\TypeChar\Debug\TypeChar.exe

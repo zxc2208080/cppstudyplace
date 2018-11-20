@@ -1,0 +1,9 @@
+﻿  DiaLogTest.cpp
+  Mycommon.cpp
+f:\test\cppworkplace\cppstudyplace\github\zxc2208080\cppstudyplace\dialogtest\dialogtest\mycommon.cpp(8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+f:\test\cppworkplace\cppstudyplace\github\zxc2208080\cppstudyplace\dialogtest\dialogtest\mycommon.cpp(19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+  stdafx.cpp
+  正在生成代码...
+  DiaLogTest.vcxproj -> F:\test\cppworkplace\cppstudyplace\github\zxc2208080\cppstudyplace\DiaLogTest\Debug\DiaLogTest.exe

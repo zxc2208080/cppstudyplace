@@ -1,5 +1,7 @@
 #include "stdafx.h"
 
+
+
 // “关于”框的消息处理程序。
 INT_PTR CALLBACK About(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam)
 {

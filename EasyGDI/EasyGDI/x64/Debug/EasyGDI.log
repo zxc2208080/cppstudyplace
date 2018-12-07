@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Dialog.cpp
+  EasyGDI.cpp
+f:\test\cppworkplace\cppstudyplace\github\zxc2208080\cppstudyplace\easygdi\easygdi\easygdi.cpp(241): error C2065: “GWL_HINSTANCE”: 未声明的标识符
+  MyFunc.cpp
+  正在生成代码...
